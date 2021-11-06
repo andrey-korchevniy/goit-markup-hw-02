@@ -35,7 +35,7 @@ body {
 
 /* Меню навигации */
 .nav-link,
-.nav-contacts {
+.nav-contact {
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -105,6 +105,7 @@ body {
 /* Секция Преимущества */
 .features-item {
   color: var(--secondary-text-color);
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
